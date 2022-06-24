@@ -1,0 +1,4 @@
+First create a folder and name it as react-todo-app.
+Download and add all files in this folder.
+Check dependecies in package.json file and install all dependecies.
+Run the file by npm start in console from root directory.

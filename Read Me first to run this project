@@ -2,3 +2,10 @@ First create a folder and name it as react-todo-app.
 Download and add all files in this folder.
 Check dependecies in package.json file and install all dependecies by command mpm install dependicies-name in console from root directory.
 Run the file by npm start in console from root directory.
+
+or,
+Create a folder name it react-todo-app
+Open this folder on vs code and run npx create-react-app command from terminal and wait for react to install.
+Install uuid by npm i uuid command.
+Download all files, add it to this folder replace files with same names.
+Run through npm start command in terminal.
